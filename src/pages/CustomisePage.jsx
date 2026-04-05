@@ -208,7 +208,7 @@ function CustomiseInner() {
 
         <div className="panel">
           <div className="small-label">4. Placement controls</div>
-          <p className="tiny-copy">Use the mouse directly on the jewellery preview to place gemstones and drag them around the piece.Add up to only 8 gemstones.</p>
+          <p className="tiny-copy">Use the mouse directly on the jewellery preview to place gemstones and drag them around the piece. Add up to only 8 gemstones.</p>
           <div className="stack-list">
             <div>
               <div className="control-label">Gem size</div>
